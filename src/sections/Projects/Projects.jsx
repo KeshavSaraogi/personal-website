@@ -11,7 +11,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={techshop}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://e-commerce-website-l06q.onrender.com/"
           h3="Tech Shop"
           p="E-Commerce"
         />
